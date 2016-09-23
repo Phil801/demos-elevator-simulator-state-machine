@@ -1,0 +1,14 @@
+C:\Dev\Phil\Projects\ElevatorSim\ElevatorGUI\bin\Debug\ElevatorGUI.exe.config
+C:\Dev\Phil\Projects\ElevatorSim\ElevatorGUI\bin\Debug\ElevatorGUI.exe
+C:\Dev\Phil\Projects\ElevatorSim\ElevatorGUI\bin\Debug\ElevatorGUI.pdb
+C:\Dev\Phil\Projects\ElevatorSim\ElevatorGUI\bin\Debug\StateElevator.dll
+C:\Dev\Phil\Projects\ElevatorSim\ElevatorGUI\bin\Debug\StateMachine.dll
+C:\Dev\Phil\Projects\ElevatorSim\ElevatorGUI\bin\Debug\StateElevator.pdb
+C:\Dev\Phil\Projects\ElevatorSim\ElevatorGUI\bin\Debug\StateMachine.pdb
+C:\Dev\Phil\Projects\ElevatorSim\ElevatorGUI\obj\Debug\ElevatorGUI.csprojResolveAssemblyReference.cache
+C:\Dev\Phil\Projects\ElevatorSim\ElevatorGUI\obj\Debug\ElevatorGUI.BuildingFloor.resources
+C:\Dev\Phil\Projects\ElevatorSim\ElevatorGUI\obj\Debug\ElevatorGUI.Properties.Resources.resources
+C:\Dev\Phil\Projects\ElevatorSim\ElevatorGUI\obj\Debug\ElevatorGUI.csproj.GenerateResource.Cache
+C:\Dev\Phil\Projects\ElevatorSim\ElevatorGUI\obj\Debug\ElevatorGUI.exe
+C:\Dev\Phil\Projects\ElevatorSim\ElevatorGUI\obj\Debug\ElevatorGUI.pdb
+C:\Dev\Phil\Projects\ElevatorSim\ElevatorGUI\obj\Debug\ElevatorGUI.FloorElevatorLocationDisplay.resources

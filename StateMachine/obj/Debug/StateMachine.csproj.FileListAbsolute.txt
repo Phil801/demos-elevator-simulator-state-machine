@@ -1,0 +1,4 @@
+C:\Dev\Phil\Projects\ElevatorSim\StateMachine\bin\Debug\StateMachine.dll
+C:\Dev\Phil\Projects\ElevatorSim\StateMachine\bin\Debug\StateMachine.pdb
+C:\Dev\Phil\Projects\ElevatorSim\StateMachine\obj\Debug\StateMachine.dll
+C:\Dev\Phil\Projects\ElevatorSim\StateMachine\obj\Debug\StateMachine.pdb

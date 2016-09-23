@@ -1,0 +1,7 @@
+C:\Dev\Phil\Projects\ElevatorSim\StateElevator\bin\Debug\StateElevator.dll
+C:\Dev\Phil\Projects\ElevatorSim\StateElevator\bin\Debug\StateElevator.pdb
+C:\Dev\Phil\Projects\ElevatorSim\StateElevator\bin\Debug\StateMachine.dll
+C:\Dev\Phil\Projects\ElevatorSim\StateElevator\bin\Debug\StateMachine.pdb
+C:\Dev\Phil\Projects\ElevatorSim\StateElevator\obj\Debug\StateElevator.csprojResolveAssemblyReference.cache
+C:\Dev\Phil\Projects\ElevatorSim\StateElevator\obj\Debug\StateElevator.dll
+C:\Dev\Phil\Projects\ElevatorSim\StateElevator\obj\Debug\StateElevator.pdb

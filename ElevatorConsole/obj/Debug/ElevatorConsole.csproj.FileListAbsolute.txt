@@ -1,0 +1,10 @@
+C:\Dev\Phil\Projects\ElevatorSim\ElevatorConsole\bin\Debug\ElevatorConsole.exe.config
+C:\Dev\Phil\Projects\ElevatorSim\ElevatorConsole\bin\Debug\ElevatorConsole.exe
+C:\Dev\Phil\Projects\ElevatorSim\ElevatorConsole\bin\Debug\ElevatorConsole.pdb
+C:\Dev\Phil\Projects\ElevatorSim\ElevatorConsole\bin\Debug\StateElevator.dll
+C:\Dev\Phil\Projects\ElevatorSim\ElevatorConsole\bin\Debug\StateMachine.dll
+C:\Dev\Phil\Projects\ElevatorSim\ElevatorConsole\bin\Debug\StateElevator.pdb
+C:\Dev\Phil\Projects\ElevatorSim\ElevatorConsole\bin\Debug\StateMachine.pdb
+C:\Dev\Phil\Projects\ElevatorSim\ElevatorConsole\obj\Debug\ElevatorConsole.csprojResolveAssemblyReference.cache
+C:\Dev\Phil\Projects\ElevatorSim\ElevatorConsole\obj\Debug\ElevatorConsole.exe
+C:\Dev\Phil\Projects\ElevatorSim\ElevatorConsole\obj\Debug\ElevatorConsole.pdb
